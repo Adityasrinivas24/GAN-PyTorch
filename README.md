@@ -1,2 +1,2 @@
-# GAN-PyTorch
-Generative Adversarial Networks Implemented in PyTorch
+# PyTorch Experiments
+Deep Learning Experiments in PyTorch
